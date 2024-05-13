@@ -1,5 +1,5 @@
 // Declare your arrays here
-
+console.log("hello")
 let comedies=["comdey11.png","comedy12.png","comedy13.png"];
 console.log(comedies);
 let actions=["action1.png","action2.png","action3.png"];
